@@ -1,2 +1,2 @@
 # maddrassah-tul-akhlaaq
-Code repository administration system of Madrassah Tul Akhlaaq.
+Code repository for the administration system of Madrassah Tul Akhlaaq.
